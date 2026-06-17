@@ -1,4 +1,4 @@
- 🎀 Dream Dress-Up Room 
+ Dream Dress-Up Room 
 
 Welcome to **Dream Dress-Up Room**, a cute, cozy, and highly aesthetic pastel-themed fashion dollhouse web game. Built for teenagers and young adults, this application provides an immersive dressing room styling experience where you can customize, name, and collect adorable outfits!
 

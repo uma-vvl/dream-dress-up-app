@@ -1,8 +1,6 @@
-# 🎀 Dream Dress-Up Room 🎀
+ 🎀 Dream Dress-Up Room 
 
 Welcome to **Dream Dress-Up Room**, a cute, cozy, and highly aesthetic pastel-themed fashion dollhouse web game. Built for teenagers and young adults, this application provides an immersive dressing room styling experience where you can customize, name, and collect adorable outfits!
-
-![Logo](static/images/logo.png)
 
 ## 🎨 Features & Highlights
 
@@ -48,7 +46,7 @@ bq-release-notes/
 
 ---
 
-## 🚀 How to Run the Game Locally
+## How to Run the Game Locally
 
 ### 1. Pre-requisites
 Ensure you have Python 3 and pip installed.
@@ -69,11 +67,10 @@ This will run the server locally on **`http://127.0.0.1:5001`**.
 ### 4. Open in Browser
 Open your browser and visit: [http://127.0.0.1:5001](http://127.0.0.1:5001)
 
-*Tip: Click the **Cozy Music** button in the top right to enable the relaxing synthesized background melody!*
 
 ---
 
-## 💅 Styling Details & Controls
+## Styling Details & Controls
 
 - **Wardrobe Drawer**: Click **Open Wardrobe** to swing open the 3D doors. Inside, click on any item to equip/de-equip it. Use the bottom drawer color palette to recolor the selected item instantly.
 - **Randomize**: Click the **Randomize** button to generate a fully styled random outfit, random name, and skin tone.
